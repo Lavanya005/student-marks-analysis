@@ -1,0 +1,16 @@
+﻿Student_ID,Name,Subject,Marks,Department
+101,Anu,Maths,85,CSE
+102,Banu,Maths,72,ECE
+103,Priya,Maths,90,CSE
+104,Ravi,Maths,65,ECE
+105,Divya,Maths,78,CSE
+101,Anu,Science,88,CSE
+102,Banu,Science,80,ECE
+103,Priya,Science,95,CSE
+104,Ravi,Science,70,ECE
+105,Divya,Science,82,CSE
+101,Anu,English,76,CSE
+102,Banu,English,85,ECE
+103,Priya,English,89,CSE
+104,Ravi,English,60,ECE
+105,Divya,English,91,CSE
